@@ -97,8 +97,8 @@ body {
 }
 
 .card {
-  background-color: #333; /* Fondo oscuro para contraste */
-  color: #fff; /* Texto en blanco para contraste */
+  background-color: #333;
+  color: #fff;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   margin: 15px 0;
